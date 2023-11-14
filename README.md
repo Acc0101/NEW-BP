@@ -1,6 +1,6 @@
 # NEW-BP
 票星球纷玩岛BP。直达订单页面！！
-修改缓存提前进入内页，交流学习可联系，不售，贩子别来
+修改缓存提前进入内页！！
 ![b72d31e8bdb9122e9476fba8c053afb](https://github.com/Acc0101/NEW-BP/assets/147390054/36de2256-9d49-404e-bdd7-2d963cf50aaa)
 
 ![9b9a7a26fd3d2403ce1ae32b4d74021](https://github.com/Acc0101/NEW-BP/assets/147390054/f981a639-e15a-456a-82de-3e83d2895a9d)
